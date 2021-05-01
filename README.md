@@ -1,10 +1,11 @@
+http://i.imgur.com/0o48UoR.png 
 # Aditi Sharma
 ## Hi there 👋,           
 I'm Aditi Sharma!
 ## 🧐 About
 - 🏄‍ I am pursuing B.tech in Computer Science at Medicaps University Indore.
 - ⚡ Skilled in c/c++, Python, HTML, CSS, JavaScript and learning new technologies to create highly-skilled tech products.
-- 📫 How to reach me: aditiadisharma2@gmail.com   http://www.github.com/aditi2802
+- 📫 How to reach me: aditiadisharma2@gmail.com
 
 
 <!---
