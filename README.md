@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @aditi2802
-- 👀 I’m interested in coding, reading, dancing, listening music.
-- 🌱 I’m currently learning Web Development.
-- 📫 How to reach me: aditiadisharma2@gmail.com
+# Aditi Sharma
+## Hi there 👋,           
+I'm Aditi Sharma!
+## 🧐 About
+- 🏄‍ I am pursuing B.tech in Computer Science at Medicaps University Indore.
+- ⚡ Skilled in c/c++, Python, HTML, CSS, JavaScript and learning new technologies to create highly-skilled tech products.
+- 📫 How to reach me: aditiadisharma2@gmail.com   http://www.github.com/aditi2802
+
 
 <!---
 aditi2802/aditi2802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
