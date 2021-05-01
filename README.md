@@ -1,4 +1,3 @@
-http://i.imgur.com/0o48UoR.png 
 # Aditi Sharma
 ## Hi there 👋,           
 I'm Aditi Sharma!
