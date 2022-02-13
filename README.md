@@ -3,7 +3,7 @@
 I'm Aditi Sharma!
 ## 🧐 About
 - 🏄‍ I am pursuing B.tech in Computer Science at Medicaps University Indore.
-- ⚡ Familiar with C/C++, DBMS, SQL, OOP, NodeJs, Express, EJS, AJax, Javascript, HTML, CSS, Bootstrap and learning new technologies to create highly-skilled tech products.
+- ⚡ Familiar with C/C++, Data Structures & Algorithms, DBMS, SQL, OOP, NodeJs, Express, EJS, AJax, Javascript, HTML, CSS, Bootstrap and learning new technologies to create highly-skilled tech products.
 - 📫 How to reach me: sharmaaditi.career@gmail.com
 
 
